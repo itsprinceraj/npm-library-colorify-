@@ -1,5 +1,5 @@
 {
-  "name": "colorify",
+  "name": "code-colorify",
   "version": "1.0.0",
   "description": "A npm library to generte stylish logs",
   "main": "index.js",
@@ -12,7 +12,15 @@
     "url": "git+https://github.com/iamprinceraj/npm-library-colorify.git"
   },
   "keywords": [
-    "colorify"
+    "colorify",
+    "code-colorify",
+    "log-colorify",
+    "color",
+    "color-string",
+    "colored",
+    "colored-log",
+    "info-color",
+    "colorify-code"
   ],
   "author": "Prince Raj",
   "license": "ISC",
